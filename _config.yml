@@ -11,6 +11,12 @@ color:
     - '#046380'
     - '#002F2F'
 layout_spectrum: 0.3151939504314214
-name: Solvestra
+author:
+  name: Roman Koudriavtsev
+  email: romank21@solvestra.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4fdc24e-01bd-4e35-bca9-4d8ca9de81e8.jpg
+name: SOLVESTRA
+favicon: null
 title: data moderne
 description: contemporary info tech consulting
